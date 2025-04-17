@@ -1,0 +1,2 @@
+Patient_Name,Doctor_Name,Date,Medicines,Dosage,Frequency,Raw_OCR_Text,Raw_BLIP_Text
+patient name,doctor's name,date,['medicines'],['dosage'],['and frequency'],,a letter from the president of the united states

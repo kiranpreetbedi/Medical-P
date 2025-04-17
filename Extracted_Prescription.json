@@ -1,0 +1,16 @@
+{
+    "Patient_Name": "patient name",
+    "Doctor_Name": "doctor's name",
+    "Date": "date",
+    "Medicines": [
+        "medicines"
+    ],
+    "Dosage": [
+        "dosage"
+    ],
+    "Frequency": [
+        "and frequency"
+    ],
+    "Raw_OCR_Text": "",
+    "Raw_BLIP_Text": "a letter from the president of the united states"
+}
